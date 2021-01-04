@@ -1,0 +1,18 @@
+.key {
+  margin-top: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.key li {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.key-align {
+  padding-left: 20px;
+  font-weight: 500;
+}
